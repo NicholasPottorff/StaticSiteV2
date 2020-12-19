@@ -1,0 +1,7 @@
+site_name: StaticWebsite2
+nav:
+  - Digital Literacy Narrative: index.md
+  - Accessibility: access.md
+  - Egg Tutorial: tutorial.md
+
+theme: readthedocs
